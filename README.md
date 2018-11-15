@@ -1,2 +1,1 @@
-# hoW-to-use-HTOOLS
-My first repository on GitHub." 
+# How-to-use-HTOOLS
